@@ -1,2 +1,2 @@
 # Calculator
- Calculator made in HTML, CS e JavaScript. Developed to study neomorphism design
+ Calculator made in HTML, CSS e JavaScript. Developed to study neumorphism design
